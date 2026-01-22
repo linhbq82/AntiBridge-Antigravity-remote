@@ -2,7 +2,7 @@
 
 <img src="media/Logo_AntiBridge.png" width="200" alt="AntiBridge Logo">
 
-# 🌉 AntiBridge
+#  AntiBridge
 
 **A bridge between your phone and Antigravity.**
 
